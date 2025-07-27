@@ -1,6 +1,6 @@
 # QuickAI
 
-![QuickAI Screenshot](https://quickai-sage.vercel.app/quickai-banner.png) QuickAI is a comprehensive AI-powered platform designed to streamline various creative and analytical tasks. From generating engaging content to transforming images, QuickAI leverages the power of artificial intelligence to boost your productivity.
+QuickAI is a comprehensive AI-powered platform designed to streamline various creative and analytical tasks. From generating engaging content to transforming images, QuickAI leverages the power of artificial intelligence to boost your productivity.
 
 ## Live Demo
 
